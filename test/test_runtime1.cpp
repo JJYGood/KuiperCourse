@@ -8,8 +8,8 @@
 
 TEST(test_runtime, runtime1) {
   using namespace kuiper_infer;
-  const std::string &param_path = "./tmp/test.pnnx.param";
-  const std::string &bin_path = "./tmp/test.pnnx.bin";
+  const std::string &param_path = "../tmp/test.pnnx.param";
+  const std::string &bin_path = "../tmp/test.pnnx.bin";
   RuntimeGraph graph(param_path, bin_path);
   graph.Init();
   graph.Build("pnnx_input_0", "pnnx_output_0");

@@ -7,8 +7,8 @@
 
 TEST(test_initinoutput, init_init_input) {
   using namespace kuiper_infer;
-  const std::string &param_path = "./tmp/ten.pnnx.param";
-  const std::string &bin_path = "./tmp/ten.pnnx.bin";
+  const std::string &param_path = "../tmp/ten.pnnx.param";
+  const std::string &bin_path = "../tmp/ten.pnnx.bin";
   RuntimeGraph graph(param_path, bin_path);
   graph.Init();
   graph.Build("pnnx_input_0", "pnnx_output_0");
@@ -61,8 +61,8 @@ TEST(test_initinoutput, init_init_input) {
 
 TEST(test_initinoutput, init_init_graph) {
   using namespace kuiper_infer;
-  const std::string &param_path = "./tmp/test.pnnx.param";
-  const std::string &bin_path = "./tmp/test.pnnx.bin";
+  const std::string &param_path = "../tmp/test.pnnx.param";
+  const std::string &bin_path = "../tmp/test.pnnx.bin";
   RuntimeGraph graph(param_path, bin_path);
   graph.Init();
   graph.Build("pnnx_input_0", "pnnx_output_0");
@@ -99,8 +99,8 @@ TEST(test_initinoutput, init_init_graph) {
 
 TEST(test_initinoutput, init_init_out) {
   using namespace kuiper_infer;
-  const std::string &param_path = "./tmp/ten.pnnx.param";
-  const std::string &bin_path = "./tmp/ten.pnnx.bin";
+  const std::string &param_path = "../tmp/ten.pnnx.param";
+  const std::string &bin_path = "../tmp/ten.pnnx.bin";
   RuntimeGraph graph(param_path, bin_path);
   graph.Init();
   graph.Build("pnnx_input_0", "pnnx_output_0");
