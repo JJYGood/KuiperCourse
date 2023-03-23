@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/code/KuiperCourse/build",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include -I/usr/include/armadillo_bits   -O3 -fopenmp -march=native -g   -std=gnu++17 -o CMakeFiles/kuiper_course.dir/main.cpp.o -c /code/KuiperCourse/main.cpp",
+  "file": "/code/KuiperCourse/main.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_conv.cpp.o -c /code/KuiperCourse/test/test_conv.cpp",
+  "file": "/code/KuiperCourse/test/test_conv.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_expression.cpp.o -c /code/KuiperCourse/test/test_expression.cpp",
+  "file": "/code/KuiperCourse/test/test_expression.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_first.cpp.o -c /code/KuiperCourse/test/test_first.cpp",
+  "file": "/code/KuiperCourse/test/test_first.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_init_inoutput.cpp.o -c /code/KuiperCourse/test/test_init_inoutput.cpp",
+  "file": "/code/KuiperCourse/test/test_init_inoutput.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_load_data.cpp.o -c /code/KuiperCourse/test/test_load_data.cpp",
+  "file": "/code/KuiperCourse/test/test_load_data.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_main.cpp.o -c /code/KuiperCourse/test/test_main.cpp",
+  "file": "/code/KuiperCourse/test/test_main.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_maxpooling.cpp.o -c /code/KuiperCourse/test/test_maxpooling.cpp",
+  "file": "/code/KuiperCourse/test/test_maxpooling.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_relu.cpp.o -c /code/KuiperCourse/test/test_relu.cpp",
+  "file": "/code/KuiperCourse/test/test_relu.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_runtime1.cpp.o -c /code/KuiperCourse/test/test_runtime1.cpp",
+  "file": "/code/KuiperCourse/test/test_runtime1.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_sigmoid.cpp.o -c /code/KuiperCourse/test/test_sigmoid.cpp",
+  "file": "/code/KuiperCourse/test/test_sigmoid.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/test_tensor.cpp.o -c /code/KuiperCourse/test/test_tensor.cpp",
+  "file": "/code/KuiperCourse/test/test_tensor.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/parser/parse_expression.cpp.o -c /code/KuiperCourse/source/parser/parse_expression.cpp",
+  "file": "/code/KuiperCourse/source/parser/parse_expression.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/runtime/ir.cpp.o -c /code/KuiperCourse/source/runtime/ir.cpp",
+  "file": "/code/KuiperCourse/source/runtime/ir.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/runtime/runtime_ir.cpp.o -c /code/KuiperCourse/source/runtime/runtime_ir.cpp",
+  "file": "/code/KuiperCourse/source/runtime/runtime_ir.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/runtime/store_zip.cpp.o -c /code/KuiperCourse/source/runtime/store_zip.cpp",
+  "file": "/code/KuiperCourse/source/runtime/store_zip.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/data/load_data.cpp.o -c /code/KuiperCourse/source/data/load_data.cpp",
+  "file": "/code/KuiperCourse/source/data/load_data.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/data/tensor.cpp.o -c /code/KuiperCourse/source/data/tensor.cpp",
+  "file": "/code/KuiperCourse/source/data/tensor.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/conv_op.cpp.o -c /code/KuiperCourse/source/ops/conv_op.cpp",
+  "file": "/code/KuiperCourse/source/ops/conv_op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/expression_op.cpp.o -c /code/KuiperCourse/source/ops/expression_op.cpp",
+  "file": "/code/KuiperCourse/source/ops/expression_op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/maxpooling_op.cpp.o -c /code/KuiperCourse/source/ops/maxpooling_op.cpp",
+  "file": "/code/KuiperCourse/source/ops/maxpooling_op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/op.cpp.o -c /code/KuiperCourse/source/ops/op.cpp",
+  "file": "/code/KuiperCourse/source/ops/op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/relu_op.cpp.o -c /code/KuiperCourse/source/ops/relu_op.cpp",
+  "file": "/code/KuiperCourse/source/ops/relu_op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/ops/sigmoid_op.cpp.o -c /code/KuiperCourse/source/ops/sigmoid_op.cpp",
+  "file": "/code/KuiperCourse/source/ops/sigmoid_op.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/conv_layer.cpp.o -c /code/KuiperCourse/source/layer/conv_layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/conv_layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/expression_layer.cpp.o -c /code/KuiperCourse/source/layer/expression_layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/expression_layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/layer.cpp.o -c /code/KuiperCourse/source/layer/layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/maxpooling_layer.cpp.o -c /code/KuiperCourse/source/layer/maxpooling_layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/maxpooling_layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/relu_layer.cpp.o -c /code/KuiperCourse/source/layer/relu_layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/relu_layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/layer/sigmoid_layer.cpp.o -c /code/KuiperCourse/source/layer/sigmoid_layer.cpp",
+  "file": "/code/KuiperCourse/source/layer/sigmoid_layer.cpp"
+},
+{
+  "directory": "/code/KuiperCourse/build/test",
+  "command": "/usr/bin/g++   -I/code/KuiperCourse/./include   -O3 -fopenmp -march=native -O0 -g   -std=gnu++17 -o CMakeFiles/test_kuiper_course.dir/__/source/factory/layer_factory.cpp.o -c /code/KuiperCourse/source/factory/layer_factory.cpp",
+  "file": "/code/KuiperCourse/source/factory/layer_factory.cpp"
+}
+]
